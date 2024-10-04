@@ -1,4 +1,4 @@
-# Hi, I’m @SahilSuresh
+# Hi, I’m @ShahilSuresh
 
 - 👀 I’m interested in **web development, programming languages, and innovative technologies.**
 - 🌱 I’m currently learning **JavaScript, React, and backend development with Node.js.**
