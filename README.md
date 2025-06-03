@@ -54,18 +54,17 @@ const shahil = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahilSuresh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilSuresh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahilSuresh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahilSuresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSuresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div></div>
 
 ---
+
 
 ## 🏆 Achievements & Interests
 
@@ -89,15 +88,15 @@ const shahil = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getshahilsuresh38@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahilSuresh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shahil-suresh)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilSuresh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShahilSuresh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SahilSuresh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
