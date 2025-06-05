@@ -18,7 +18,6 @@ const shahil = {
     currentlyLearning: "Building scalable web applications",
     lookingToCollaborate: "Open-source projects & innovative web solutions"
 };
-```
 
 ---
 
