@@ -17,7 +17,7 @@ const shahil = {
     entrepreneurialSpirit: "Founded & operated digital marketing consultancy",
     passions: [
         "🔥 Building enterprise-level applications", 
-        "⚡ Optimizing performance & scalability",
+        "⚡ Optimising performance & scalability",
         "🧠 Exploring functional programming paradigms",
         "🌟 Creating seamless user experiences"
     ],
@@ -32,7 +32,7 @@ const shahil = {
 ## 💼 Professional Highlights
 
 🎯 **Enterprise Experience:** Built scalable hotel booking platform serving 100+ concurrent users  
-🚀 **Performance Optimization:** Achieved sub-second response times with optimized database indexing  
+🚀 **Performance Optimization:** Achieved sub-second response times with optimised database indexing  
 💳 **Payment Integration:** Implemented secure Stripe API with PCI compliance  
 👥 **Team Leadership:** Led 5-member development teams using Agile methodologies  
 💼 **Entrepreneurial Success:** Founded marketing consultancy with multiple client acquisitions  
@@ -169,7 +169,7 @@ const shahil = {
 
 **My Development Principles:**
 - 🎯 **Quality over Quantity:** Write clean, maintainable, and scalable code
-- 🚀 **Performance Matters:** Optimize for speed, efficiency, and user experience  
+- 🚀 **Performance Matters:** Optimise for speed, efficiency, and user experience  
 - 🤝 **Collaboration First:** Build solutions that empower teams and users
 - 📚 **Never Stop Learning:** Embrace new technologies and methodologies
 - 💡 **Innovation Mindset:** Solve real problems with creative solutions
